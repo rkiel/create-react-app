@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:rkiel/create-react-app.git",
   "author": "rkiel <cygnus@pobox.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "create-react-app": "^1.4.0"
+  }
 }
