@@ -7,5 +7,9 @@
   "license": "MIT",
   "devDependencies": {
     "create-react-app": "^1.4.0"
+  },
+  "scripts": {
+    "help": "create-react-app --help",
+    "create": "create-react-app"
   }
 }
