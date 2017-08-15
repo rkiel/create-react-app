@@ -25,5 +25,13 @@ Create a new React application
 ```bash
 cd ~/GitHub/rkiel/create-react-app
 yarn run create ../$MY_NEW_APP
-cd ../$MY_NEW_APP
+```
+
+Start version control
+
+```bash
+cd ~/GitHub/rkiel/$MY_NEW_APP
+git init
+git add .
+git commit -m "Initial commit"
 ```
